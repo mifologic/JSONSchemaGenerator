@@ -55,4 +55,5 @@ data_from_json = json.loads(json_data)
 """
 builder = SchemaBuilder()
 builder.add_object(data_from_json)
+print("Сгенерирована схема: ")
 print(builder.to_schema())

@@ -14,4 +14,5 @@ def create_json_schema(method):
     return builder.to_schema()      # возвращаем ответ в виде автоматически сгенерированной json-схемы
 
 
+print("Сгенерирована схема: ")
 print(create_json_schema('https://fakerestapi.azurewebsites.net/api/v1/Books'))  # печатаем схему
