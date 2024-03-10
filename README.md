@@ -3,7 +3,7 @@
 ### Используемые библиотеки
 * json (входит в стандартные библиотеки Python, не требует дополнительной установки);
 * [requests](https://requests.readthedocs.io/en/latest/);
-* (pytest)[https://docs.pytest.org/en/7.1.x/contents.html];
+* [pytest](https://docs.pytest.org/en/7.1.x/contents.html);
 * [genson](https://github.com/wolverdude/GenSON).
 
 ## Запуск проекта локально
