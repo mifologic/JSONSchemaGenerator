@@ -22,7 +22,8 @@ git clone https://github.com/mifologic/JSONSchemaGenerator.git
 ```
 
 ### Запуск из командной строки
-Файлы можно запустить из терминала. Для запуска папки json_from_request потребуется установить библиотеку requests. 
+Файлы можно запустить из терминала. Для запуска потребуется установить библиотеки, не входящие в стандартные. 
+Используемые в проекте библиотеки хранятся в файле *requirements.txt*.
 Команда для установки:
 ````commandline
 python -m pip install -r requirements.txt
@@ -41,7 +42,8 @@ ls *.py|xargs -n 1 -P 4 python
 ```
 
 ### Запуск тестов
-Запустить тесты в папке *json_schema_test_example* можно следующей командой:
+В папке *json_schema_test_example* лежат примеры тестов. 
+Для запуска нужно перейти в папку и запустить тесты следующей командой:
 ```commandline
 pytest file_name.py
 ```
