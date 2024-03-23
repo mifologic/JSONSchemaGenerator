@@ -8,37 +8,39 @@ from genson import SchemaBuilder
 """
 
 json_data = """[
-  {
-    "id": 1,
-    "title": "Activity 1",
-    "dueDate": "2024-01-09T19:03:43.1718735+00:00",
-    "completed": false
-  },
-  {
-    "id": 2,
-    "title": "Activity 2",
-    "dueDate": "2024-01-09T20:03:43.1718764+00:00",
-    "completed": true
-  },
-  {
-    "id": 3,
-    "title": "Activity 3",
-    "dueDate": "2024-01-09T21:03:43.1718768+00:00",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "title": "Activity 4",
-    "dueDate": "2024-01-09T22:03:43.1718771+00:00",
-    "completed": true
-  },
-  {
-    "id": 5,
-    "title": "Activity 5",
-    "dueDate": "2024-01-09T23:03:43.1718774+00:00",
-    "completed": false
-  }
-]
+{
+        "id": 1,
+        "title": "Book 1",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "pageCount": 100,
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "publishDate": "2024-03-22T21:00:35.2216895+00:00"
+    },
+    {
+        "id": 2,
+        "title": "Book 2",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "pageCount": 200,
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "publishDate": "2024-03-21T21:00:35.221705+00:00"
+    },
+    {
+        "id": 3,
+        "title": "Book 3",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "pageCount": 300,
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "publishDate": "2024-03-20T21:00:35.2217163+00:00"
+    },
+    {
+        "id": 4,
+        "title": "Book 4",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "pageCount": 400,
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "publishDate": "2024-03-19T21:00:35.221728+00:00"
+    }
+    ]
 """
 
 """
