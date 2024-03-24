@@ -11,33 +11,33 @@ json_data = """[
 {
         "id": 1,
         "title": "Book 1",
-        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "pageCount": 100,
-        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "publishDate": "2024-03-22T21:00:35.2216895+00:00"
     },
     {
         "id": 2,
         "title": "Book 2",
-        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "pageCount": 200,
-        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "publishDate": "2024-03-21T21:00:35.221705+00:00"
     },
     {
         "id": 3,
         "title": "Book 3",
-        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "pageCount": 300,
-        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "publishDate": "2024-03-20T21:00:35.2217163+00:00"
     },
     {
         "id": 4,
         "title": "Book 4",
-        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "description": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "pageCount": 400,
-        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.\n",
+        "excerpt": "Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.nLorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.",
         "publishDate": "2024-03-19T21:00:35.221728+00:00"
     }
     ]
